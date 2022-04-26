@@ -1,0 +1,4 @@
+.DS_Store
+env/
+__pycache__/
+data/hand_eye_combined_logs/*.txt
